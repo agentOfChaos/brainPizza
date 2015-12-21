@@ -8,6 +8,8 @@ Generate random pizza images using neural networks
     
 # usage
 
+create an 'oven' subdirectory in the same folder as brainpizza.py, then run:
+
     python brainpizza.py
     
 wait
